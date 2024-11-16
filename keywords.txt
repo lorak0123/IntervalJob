@@ -1,0 +1,5 @@
+IntervalJob	KEYWORD1
+run	KEYWORD2
+runAll	KEYWORD2
+setInterval	KEYWORD2
+getInterval	KEYWORD2
